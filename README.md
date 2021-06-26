@@ -7,7 +7,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/matheuspedrosoo//)](https://www.linkedin.com/in/matheuspedrosoo/)
 
 - Formado em Sistemas de Informação
-  , atuei com Suporte TI por mais de 3 anos, atualmente estudando React,Typescript, Node.js.
+  , atuei com Suporte TI por mais de 3 anos, atualmente estudando React, Typescript, Node.js.
   <br>
 
 <div align="center">
@@ -23,10 +23,10 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
-</div>
 
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuspedrosoo&show_icons=true&theme=radical)
+</div>
