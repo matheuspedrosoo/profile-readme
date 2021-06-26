@@ -6,7 +6,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/matheuspedrosoo//)](https://www.linkedin.com/in/matheuspedrosoo/)
 
-- Formado em Sistemas de Informações
+- Formado em Sistemas de Informação
   , atuei com Suporte TI por mais de 3 anos, atualmente estudando React,Typescript, Node.js.
   <br>
 
